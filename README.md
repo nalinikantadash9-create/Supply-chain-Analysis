@@ -1,19 +1,24 @@
-# 📦 Supply Chain Analysis 
+📊 Supply Chain Management Analytics
+📌 Project Overview
 
-## 📌 Project Overview
+The Supply Chain Management Analytics project focuses on analyzing sales performance, inventory levels, product performance, customer information, and store operations to support data-driven business decisions.
 
-The Supply Chain Analysis project focuses on analyzing supply chain operations to identify trends, monitor key performance indicators (KPIs), and improve business decision-making. The project explores product performance, inventory management, supplier efficiency, shipping costs, and delivery performance to uncover actionable business insights.
+The project uses Excel-based supply chain data and business intelligence tools to monitor Key Performance Indicators (KPIs), identify sales trends, evaluate regional performance, and track inventory status.
 
-## 🎯 Project Objectives
+The primary objective is to transform raw business data into meaningful insights that help stakeholders improve operational efficiency, inventory management, and overall business performance.# 📦 Supply Chain Analysis 
 
-* Analyze overall sales performance and sales growth.
-* Monitor monthly, quarterly, and yearly sales.
-* Evaluate product-wise sales performance.
-* Analyze daily sales trends and identify sales patterns.
-* Compare sales performance across states, regions, and stores.
-* Monitor total inventory and inventory value.
-* Identify overstock, understock, and out-of-stock situations.
-* Develop dashboards to support business reporting and decision-making.
+
+🎯 Project Objectives
+Analyze overall sales performance and sales growth.
+Monitor monthly, quarterly, and yearly sales.
+Evaluate product-wise sales performance.
+Analyze daily sales trends and patterns.
+Compare sales performance across states, regions, and stores.
+Monitor total inventory and inventory value.
+Identify overstock, understock, and out-of-stock situations.
+Develop interactive dashboards for business reporting and decision-making.
+
+
 
 ## 🛠️ Tools & Technologies
 
@@ -21,3 +26,14 @@ The Supply Chain Analysis project focuses on analyzing supply chain operations t
 * **SQL:** Database querying and data analysis.
 * **Tableau:** Interactive dashboard development and data visualization.
 * **Power BI:** KPI reporting and business intelligence dashboards.
+
+  🚀 Project Workflow
+Collect and review the supply chain dataset.
+Examine sales, product, inventory, store, customer, and calendar data.
+Prepare relevant KPIs for business reporting.
+Analyze sales performance across time periods.
+Evaluate product-wise and store-wise sales.
+Compare state-wise and region-wise performance.
+Monitor inventory value and stock status.
+Develop dashboard visualizations using the selected BI tools.
+Present findings to support data-driven business decisions.
